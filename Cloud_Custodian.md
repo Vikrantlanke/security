@@ -1,4 +1,4 @@
-#How to manage AWS Resources with TAG Compliance?
+#How to manage AWS Resources with Cloud Custodian?
 
 ### Do you need to implement tag compliance for multiple AWS accounts with stateless rule engine? This Page is for you. 
 
